@@ -1,0 +1,17 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  border-radius: 100%;
+}
+
+.btn-logout {
+  float: right;
+}
